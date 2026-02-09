@@ -41,4 +41,4 @@ These repositories are designed to demonstrate **how** I think and analyse probl
 
 ---
 
-LinkedIn: https://www.linkedin.com/in/maalikmohammad/
+🌐 https://www.linkedin.com/in/maalikmohammad/
