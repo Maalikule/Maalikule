@@ -20,7 +20,7 @@ I've created this profile to showcase my thought process in requirements analysi
 
 ---
 
-## Tools & Technologies
+## Tools & Techs
 - Jira, Confluence
 - GitHub (Documentation & version control)
 - REST APIs (Analysis & specification)
