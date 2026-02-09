@@ -4,7 +4,7 @@ I'm a BA focused on translating complex business requirements into clear, action
 
 I work at the intersection of business, systems, and technology—collaborating and liaising with stakeholders, developers, and architects to align solutions with business outcomes and deliver them efficiently.
 
-I've created this profile to showcase my thought process in requirements analysis, system thinking, and documentation in modern Agile and technical environments.
+I've created this profile to showcase my thought process in requirements analysis, system thinking, and documentation in Agile & technical environments.
 
 ---
 
