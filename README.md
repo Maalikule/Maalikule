@@ -32,7 +32,7 @@ I've created this profile to showcase my thought process in requirements analysi
 
 ## What you'll find here
 - Sample Business Requirement Documents (BRDs)
-- Functional and non-functional specs
+- Functional & non-functional specs
 - Agile user stories & acceptance criteria
 - API requirement analysis examples
 - Process improvement case studies
